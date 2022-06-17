@@ -48,7 +48,7 @@ gem 'sprockets', '2.11.3'
 
 gem 'sprockets-rails', '2.2.1'
 
-gem 'passenger', '4.0.53' 
+gem 'passenger', '5.3.2' 
 
 gem 'rb-readline'
 
